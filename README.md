@@ -12,6 +12,12 @@ src/test/java/com/example/lld/
     <problem>/       tests mirroring the main packages
 ```
 
+## Problems
+
+| Problem | Package | Guide |
+|---|---|---|
+| Meeting room scheduler | `com.example.lld.meetingroom` | [README](src/main/java/com/example/lld/meetingroom/README.md) |
+
 ## Commands
 
 ```bash
