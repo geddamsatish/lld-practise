@@ -14,9 +14,9 @@ src/test/java/com/example/lld/
 
 ## Problems
 
-| Problem | Package | Guide |
-|---|---|---|
-| Meeting room scheduler | `com.example.lld.meetingroom` | [README](src/main/java/com/example/lld/meetingroom/README.md) |
+| Problem | Guide |
+|---|---|
+| [Meeting room scheduler](src/main/java/com/example/lld/meetingroom/README.md) | Requirements, class design, patterns, implementation details, interview Q&A |
 
 ## Commands
 
